@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ivAlES9RjJIoEX049XrbL5we7oe1laywb/HcCI9klVXHFnM72U5D5Ty/Q46PQo6Z33yEfUyqY67Xzd5TL8rChg==",
+  "dgSpecHash": "6VKDkJePD+jO1f75pMRnBpnwynRMLx3rlUUSQgynFKn2Zc4q9VBmlMwj18KXffYOgZruDkR9WgNUuHtMDK6yrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Inteli\\Documents\\Estudos\\WebMetric\\WebMetric.csproj",
+  "projectFilePath": "C:\\Users\\Inteli\\Documents\\Estudos\\Tests_dotnet\\ponderada-metricas\\WebMetric\\WebMetric.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Inteli\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\Inteli\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

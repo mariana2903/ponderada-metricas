@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Inteli\\Documents\\Estudos\\WebMetric\\",
+  "WorkspaceRootPath": "C:\\Users\\Inteli\\Documents\\Estudos\\Tests_dotnet\\ponderada-metricas\\WebMetric\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{440CE17A-0C44-45CE-B74A-F96A5AE2CC6A}|WebMetric.csproj|c:\\users\\inteli\\documents\\estudos\\webmetric\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{440CE17A-0C44-45CE-B74A-F96A5AE2CC6A}|WebMetric.csproj|c:\\users\\inteli\\documents\\estudos\\tests_dotnet\\ponderada-metricas\\webmetric\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{440CE17A-0C44-45CE-B74A-F96A5AE2CC6A}|WebMetric.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{440CE17A-0C44-45CE-B74A-F96A5AE2CC6A}|WebMetric.csproj|c:\\users\\inteli\\documents\\estudos\\webmetric\\models\\salemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{440CE17A-0C44-45CE-B74A-F96A5AE2CC6A}|WebMetric.csproj|solutionrelative:models\\salemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{440CE17A-0C44-45CE-B74A-F96A5AE2CC6A}|WebMetric.csproj|c:\\users\\inteli\\documents\\estudos\\tests_dotnet\\ponderada-metricas\\webmetric\\prometheus\\prometheus.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{440CE17A-0C44-45CE-B74A-F96A5AE2CC6A}|WebMetric.csproj|solutionrelative:prometheus\\prometheus.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{440CE17A-0C44-45CE-B74A-F96A5AE2CC6A}|WebMetric.csproj|c:\\users\\inteli\\documents\\estudos\\webmetric\\webmetric.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{440CE17A-0C44-45CE-B74A-F96A5AE2CC6A}|WebMetric.csproj|c:\\users\\inteli\\documents\\estudos\\tests_dotnet\\ponderada-metricas\\webmetric\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{440CE17A-0C44-45CE-B74A-F96A5AE2CC6A}|WebMetric.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440CE17A-0C44-45CE-B74A-F96A5AE2CC6A}|WebMetric.csproj|c:\\users\\inteli\\documents\\estudos\\tests_dotnet\\ponderada-metricas\\webmetric\\contosometrics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440CE17A-0C44-45CE-B74A-F96A5AE2CC6A}|WebMetric.csproj|solutionrelative:contosometrics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440CE17A-0C44-45CE-B74A-F96A5AE2CC6A}|WebMetric.csproj|c:\\users\\inteli\\documents\\estudos\\tests_dotnet\\ponderada-metricas\\webmetric\\webmetric.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{440CE17A-0C44-45CE-B74A-F96A5AE2CC6A}|WebMetric.csproj|solutionrelative:webmetric.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{440CE17A-0C44-45CE-B74A-F96A5AE2CC6A}|WebMetric.csproj|c:\\users\\inteli\\documents\\estudos\\webmetric\\contosometrics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{440CE17A-0C44-45CE-B74A-F96A5AE2CC6A}|WebMetric.csproj|solutionrelative:contosometrics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{440CE17A-0C44-45CE-B74A-F96A5AE2CC6A}|WebMetric.csproj|c:\\users\\inteli\\documents\\estudos\\tests_dotnet\\ponderada-metricas\\webmetric\\models\\salemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440CE17A-0C44-45CE-B74A-F96A5AE2CC6A}|WebMetric.csproj|solutionrelative:models\\salemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,28 +34,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Inteli\\Documents\\Estudos\\Tests_dotnet\\ponderada-metricas\\WebMetric\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\Inteli\\Documents\\Estudos\\Tests_dotnet\\ponderada-metricas\\WebMetric\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-11T12:06:00.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "prometheus.yaml",
+              "DocumentMoniker": "C:\\Users\\Inteli\\Documents\\Estudos\\Tests_dotnet\\ponderada-metricas\\WebMetric\\prometheus\\prometheus.yaml",
+              "RelativeDocumentMoniker": "prometheus\\prometheus.yaml",
+              "ToolTip": "C:\\Users\\Inteli\\Documents\\Estudos\\Tests_dotnet\\ponderada-metricas\\WebMetric\\prometheus\\prometheus.yaml",
+              "RelativeToolTip": "prometheus\\prometheus.yaml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-06-11T12:04:47.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "SaleModel.cs",
-              "DocumentMoniker": "C:\\Users\\Inteli\\Documents\\Estudos\\WebMetric\\Models\\SaleModel.cs",
+              "DocumentMoniker": "C:\\Users\\Inteli\\Documents\\Estudos\\Tests_dotnet\\ponderada-metricas\\WebMetric\\Models\\SaleModel.cs",
               "RelativeDocumentMoniker": "Models\\SaleModel.cs",
-              "ToolTip": "C:\\Users\\Inteli\\Documents\\Estudos\\WebMetric\\Models\\SaleModel.cs",
+              "ToolTip": "C:\\Users\\Inteli\\Documents\\Estudos\\Tests_dotnet\\ponderada-metricas\\WebMetric\\Models\\SaleModel.cs",
               "RelativeToolTip": "Models\\SaleModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T22:01:30.404Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WebMetric",
-              "DocumentMoniker": "C:\\Users\\Inteli\\Documents\\Estudos\\WebMetric\\WebMetric.csproj",
+              "DocumentIndex": 4,
+              "Title": "WebMetric.csproj",
+              "DocumentMoniker": "C:\\Users\\Inteli\\Documents\\Estudos\\Tests_dotnet\\ponderada-metricas\\WebMetric\\WebMetric.csproj",
               "RelativeDocumentMoniker": "WebMetric.csproj",
-              "ToolTip": "C:\\Users\\Inteli\\Documents\\Estudos\\WebMetric\\WebMetric.csproj",
+              "ToolTip": "C:\\Users\\Inteli\\Documents\\Estudos\\Tests_dotnet\\ponderada-metricas\\WebMetric\\WebMetric.csproj",
               "RelativeToolTip": "WebMetric.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -58,11 +92,11 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ContosoMetrics.cs",
-              "DocumentMoniker": "C:\\Users\\Inteli\\Documents\\Estudos\\WebMetric\\ContosoMetrics.cs",
+              "DocumentMoniker": "C:\\Users\\Inteli\\Documents\\Estudos\\Tests_dotnet\\ponderada-metricas\\WebMetric\\ContosoMetrics.cs",
               "RelativeDocumentMoniker": "ContosoMetrics.cs",
-              "ToolTip": "C:\\Users\\Inteli\\Documents\\Estudos\\WebMetric\\ContosoMetrics.cs",
+              "ToolTip": "C:\\Users\\Inteli\\Documents\\Estudos\\Tests_dotnet\\ponderada-metricas\\WebMetric\\ContosoMetrics.cs",
               "RelativeToolTip": "ContosoMetrics.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T21:56:04.051Z",
               "EditorCaption": ""
@@ -71,11 +105,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Inteli\\Documents\\Estudos\\WebMetric\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Inteli\\Documents\\Estudos\\Tests_dotnet\\ponderada-metricas\\WebMetric\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Inteli\\Documents\\Estudos\\WebMetric\\Program.cs",
+              "ToolTip": "C:\\Users\\Inteli\\Documents\\Estudos\\Tests_dotnet\\ponderada-metricas\\WebMetric\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T21:23:24.084Z",
               "EditorCaption": ""

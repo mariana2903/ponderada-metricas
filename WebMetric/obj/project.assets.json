@@ -1034,11 +1034,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Inteli\\Documents\\Estudos\\WebMetric\\WebMetric.csproj",
+      "projectUniqueName": "C:\\Users\\Inteli\\Documents\\Estudos\\Tests_dotnet\\ponderada-metricas\\WebMetric\\WebMetric.csproj",
       "projectName": "WebMetric",
-      "projectPath": "C:\\Users\\Inteli\\Documents\\Estudos\\WebMetric\\WebMetric.csproj",
+      "projectPath": "C:\\Users\\Inteli\\Documents\\Estudos\\Tests_dotnet\\ponderada-metricas\\WebMetric\\WebMetric.csproj",
       "packagesPath": "C:\\Users\\Inteli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Inteli\\Documents\\Estudos\\WebMetric\\obj\\",
+      "outputPath": "C:\\Users\\Inteli\\Documents\\Estudos\\Tests_dotnet\\ponderada-metricas\\WebMetric\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Inteli\\AppData\\Roaming\\NuGet\\NuGet.Config",
